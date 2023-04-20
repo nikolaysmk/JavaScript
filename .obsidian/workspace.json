@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/`Promise`.md",
+                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/`Promise`.md",
+                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/`Promise`.md",
+                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/`Promise`.md"
+                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "003443816ecf7086",
   "lastOpenFiles": [
+    "JS/Стандартные встроенные объекты/Object.md",
     "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
-    "JS/Стандартные встроенные объекты/`Promise`.md",
-    "JS/Стандартные встроенные объекты/`Object`.md",
+    "JS/Стандартные встроенные объекты/Promise.md",
     "JS/Стандартные встроенные объекты/Proxy.md",
     "Design-Patterns/Proxy Pattern.md",
     "JS/Стандартные встроенные объекты/Reflect.md",
