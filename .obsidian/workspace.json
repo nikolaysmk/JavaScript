@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
+                "file": "Bash/Bash Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
+                "file": "Bash/Bash Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
+                "file": "Bash/Bash Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md"
+                "file": "Bash/Bash Script.md"
               }
             }
           }
@@ -148,25 +148,26 @@
   },
   "active": "003443816ecf7086",
   "lastOpenFiles": [
+    "Bash/some.sh",
     "JS/Стандартные встроенные объекты/Object.md",
-    "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
     "JS/Стандартные встроенные объекты/Promise.md",
     "JS/Стандартные встроенные объекты/Proxy.md",
-    "Design-Patterns/Proxy Pattern.md",
     "JS/Стандартные встроенные объекты/Reflect.md",
-    "Design-Patterns/Singleton Pattern.md",
-    "JS/Стандартные встроенные объекты",
     "Web APIs/Web APIs.md",
+    "Web APIs/PerformanceObserver.md",
+    "Design-Patterns/Singleton Pattern.md",
+    "Design-Patterns/Proxy Pattern.md",
+    "Books/Алгоритмы на практике.md",
+    "Books/System Design.md",
+    "JS/Стандартные встроенные объекты/Стандартные встроенные объекты.md",
+    "JS/Стандартные встроенные объекты",
     "Design-Patterns/Пример-3.md",
     "Design-Patterns/Пример-2.md",
     "Design-Patterns/Пример-1.md",
     "Singleton",
     "Design-Patterns",
-    "Books/Алгоритмы на практике.md",
-    "Books/System Design.md",
     "Books/Books.md",
     "Books",
-    "Web APIs/PerformanceObserver.md",
     "Web APIs"
   ]
 }
