@@ -1,7 +1,7 @@
-С помощью шаблона Singleton мы ограничиваем создание экземпляров определенных классов одним экземпляром. Этот единственный экземпляр не подлежит изменению, и к нему можно получить глобальный доступ во всем приложении.
+// С помощью шаблона Singleton мы ограничиваем создание экземпляров определенных классов одним экземпляром. Этот единственный экземпляр не подлежит изменению, и к нему можно получить глобальный доступ во всем приложении.
 
-### Example 1 Class
-```js
+// ### Example 1 Class
+
 let instance;
 
 // 1. Creating the `Counter` class, which contains a `constructor`, `getInstance`, `getCount`, `increment` and `decrement` method.
@@ -9,7 +9,7 @@ let instance;
 class Counter {
   constructor() {
     if (instance) {
-      throw new Error("You can only create one instance!");
+      throw new Error('You can only create one instance!');
     }
     this.counter = counter;
     instance = this;
@@ -29,11 +29,8 @@ class Counter {
 }
 const singletonCounter = Object.freeze(new Counter());
 
-export default singletonCounter;
-```
+// export default singletonCounter;
 
-### Example 2 Object
-```js
 let counter = 0;
 
 const counterObject = {
@@ -42,23 +39,14 @@ const counterObject = {
   decrement: () => --counter,
 };
 
-const singletonCounter = Object.freeze(counterObject);
+// const singletonCounter = Object.freeze(counterObject);
 
+// export default singletonCounter;
 
-export default singletonCounter;
-```
-
-### Example 3 Object
-```js
-
-let counter = 0;
+// let counter = 0;
 
 export default Object.freeze({
   getCount: () => counter,
   increment: () => ++counter,
   decrement: () => --counter,
 });
-```
-
-
-
